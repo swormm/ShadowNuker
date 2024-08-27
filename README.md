@@ -2,7 +2,7 @@
 
 **Shadow Token Nuker** est un script Python conçu pour exécuter diverses actions destructrices sur un compte Discord via un token utilisateur. **⚠️ Ce script est uniquement à des fins éducatives. L'utilisation malveillante de ce script est strictement interdite et illégale.** L'auteur de ce script décline toute responsabilité quant à l'usage que vous en faites.
 
-![Shadow Token Nuker](https://media.discordapp.net/attachments/1277639400414773269/1278025112313925784/image.png?ex=66cf4d23&is=66cdfba3&hm=457a5e9be2a7a7842914749d36b65714644ae57b55876586de587309501d2426&=&format=webp&quality=lossless&width=871&height=460)
+![Shadow Token Nuker](https://media.discordapp.net/attachments/1258163221731213414/1278030208401932338/image.png?ex=66cf51e2&is=66ce0062&hm=098dcb18c72a70eee80922dbf80eab7ad3920e5d17e03b495a95f32837802058&=&format=webp&quality=lossless)
 
 ## ⚙️ Fonctionnalités
 
