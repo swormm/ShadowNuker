@@ -216,8 +216,6 @@ def Token_nuker():
     print(Colorate.Horizontal(Colors.blue_to_purple, "          -- >    [12] Send Abusive Reports"))
     print(Colorate.Horizontal(Colors.blue_to_purple, "          -- >    [13] Change Email and Password"))
     print(Colorate.Horizontal(Colors.blue_to_purple, "          -- >    [14] Change Theme and Privacy Settings"))
-    print(Colorate.Horizontal(Colors.blue_to_purple, "          -- >    [15] Delete All Roles"))
-    print(Colorate.Horizontal(Colors.blue_to_purple, "          -- >    [16] Send Messages in All Channels"))
     print(Colorate.Horizontal(Colors.blue_to_purple, "          -- >    [0] Leave"))
     print()
     choice = input(Colorate.Horizontal(Colors.blue_to_purple, "[?] Choice: "))
