@@ -44,5 +44,5 @@ L'utilisation de ce script pour compromettre des comptes Discord est strictement
 
 Ce script a été développé par **s.worm** et **britannique**.
 ```bash
-                .gg/fEJs8a2C5R
+    discord.gg/fEJs8a2C5R
 ```
