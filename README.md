@@ -25,10 +25,11 @@
 2. Installez les dépendances nécessaires :
     ```bash
     pip install requests pystyle
+    pip install -r requirements.txt
     ```
 3. Exécutez le script :
     ```bash
-    python script.py
+    python main.py
     ```
 
 ## 🚀 Utilisation
